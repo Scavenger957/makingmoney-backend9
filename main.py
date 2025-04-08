@@ -1,0 +1,1 @@
+# FastAPI backend real con rutas y base de datos para historial de precios
